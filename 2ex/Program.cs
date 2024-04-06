@@ -31,7 +31,7 @@
                     }
                 }
             }
-            Console.WriteLine("Сума" + (min + max));
+            Console.WriteLine("Сума " + (min + max));
         }
     }
 }
